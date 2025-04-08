@@ -1,10 +1,29 @@
-Hi 👋 My name is Rafael Suzano
+Hi 👋 Meu nome é Rafael Suzano
 ==============================
 
 Engineer System Automation Test
 -------------------------------
 
-* 🌍  I'm based in São Paulo
+
+     Este espaço reúne projetos pessoais, exemplos de automação de testes com Cypress, integração com ferramentas como Xray (Jira), testes BDD com Cucumber e diversas implementações práticas voltadas para qualidade de software e automação de processos.
+
+Sobre mim 🚀
+
+    Sou um profissional focado em qualidade de software, e por testes automatizados e melhoria contínua de processos. Meu objetivo é compartilhar conhecimento, aprender constantemente e contribuir para comunidades técnicas.
+    
+    Conteúdos presentes neste repositório 📌
+    
+    Automação de testes utilizando Cypress;
+    
+    Exemplos práticos com Cypress e Cucumber (BDD);
+    
+    Integrações práticas com ferramentas como Jira (Xray);
+    
+    Validação de contratos com Swagger e OpenAPI;
+    
+    Exemplos reais para aplicar em projetos do dia a dia.
+  
+  * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [rafael@suzanoit.tech](mailto:rafael@suzanoit.tech)
 
 ### Skills

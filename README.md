@@ -1,83 +1,68 @@
-# Rafael Suzano 🚀
+<h1 align="center">Rafael Suzano 🚀</h1>
 
-## Sobre mim
-
-Sou um engenheiro de automação de sistemas e testes, dedicado a melhorar a qualidade de software por meio de automação, testes automatizados e processos de melhoria contínua.
-
-Tenho paixão por compartilhar conhecimento, aprender novas tecnologias e contribuir para comunidades técnicas.
-
----
-
-## 💼 O que faço
-
-Este espaço apresenta meus projetos pessoais, exemplos de automação com **Cypress**, integrações com ferramentas como **Xray (Jira)**, testes BDD com **Cucumber**, validações de contratos com **Swagger** e **OpenAPI**, além de práticas voltadas para **produtividade** e **qualidade de software**.
-
----
-
-## 🛠 Skills
-
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
-  </a>
+<p align="center">
+  <strong>QA Engineer | Automação de Testes | Tecnologia e Qualidade de Software</strong><br>
+  Foco em qualidade, eficiência operacional e soluções orientadas por dados.
 </p>
 
 ---
 
-## 📍 Contato
+## 👨‍💻 Sobre mim
 
-- 🌍 São Paulo  
-- ✉️ [rafael@suzanoit.tech](mailto:rafael@suzanoit.tech)
+Sou engenheiro especializado em automação de sistemas e testes, com atuação voltada para a **melhoria contínua da qualidade de software**. Tenho sólida experiência com ferramentas de automação, testes BDD, integração contínua e práticas modernas de QA.
 
----
-
-## 🌐 Redes Sociais
-
-<p align="left">
-  <a href="https://www.github.com/rafaelsuzano" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="http://www.instagram.com/suzanorafael" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/rafaelsuzano" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="http://www.medium.com/@rafasuzano" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
-  </a>
-</p>
+Atuo com foco em entrega de valor, rastreabilidade, confiabilidade e ganho de escala em processos de qualidade.
 
 ---
 
-## 📊 Estatísticas GitHub
+## 💼 O que você encontrará aqui
+
+Este repositório reúne projetos e experimentações nas seguintes áreas:
+
+- ✅ Automação de testes com **Cypress**
+- 🧪 Testes BDD com **Cucumber**
+- 🔗 Integrações com **Xray** e **Jira**
+- 🔍 Validações de contrato com **Swagger** e **OpenAPI**
+- ⚙️ Implementações orientadas a **QA Ops**
+- ⏱ Otimizações de processos e produtividade em qualidade
+- 📊 Visualizações e métricas para tomada de decisão em QA
+
+---
+
+## 🛠️ Principais Skills
 
 <p align="left">
-  <a href="https://github.com/rafaelsuzano">
-    <img src="https://streak-stats.demolab.com/?user=rafaelsuzano&theme=dark&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="36" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" alt="C" />
+</p>
+
+---
+
+## 🌐 Redes & Contato
+
+📍 São Paulo – Brasil  
+✉️ [rafaelsuzano@hotmail.com](mailto:rafaelsuzano@hotmail.com)
+
+<p align="left">
+  <a href="https://github.com/rafaelsuzano" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rafaelsuzano" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/suzanorafael" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@rafasuzano" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/rafaelsuzano">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelsuzano&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
-</p>
+<br>
+
+[![Assinar a newsletter no LinkedIn](https://img.shields.io/badge/📬%20Assinar%20a%20newsletter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7351230774425092096)
